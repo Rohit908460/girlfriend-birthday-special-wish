@@ -19,7 +19,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/girlfriend-birthday-special-wish.git
+git clone https://github.com/Rohit908460/girlfriend-birthday-special-wish.git
 Navigate to the project directory:
 bash
 Copy code
